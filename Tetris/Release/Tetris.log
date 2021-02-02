@@ -1,0 +1,36 @@
+﻿  pch.cpp
+  Bar.cpp
+  Block.cpp
+  Console.cpp
+  Dog.cpp
+  File.cpp
+  Game.cpp
+C:\Users\Hugo\Desktop\UniProjects\Tetris\Tetris\Game.cpp(10,33): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Hugo\Desktop\UniProjects\Tetris\Tetris\Game.cpp(11,34): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Hugo\Desktop\UniProjects\Tetris\Tetris\Game.cpp(170,33): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Hugo\Desktop\UniProjects\Tetris\Tetris\Game.cpp(171,34): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Hugo\Desktop\UniProjects\Tetris\Tetris\Game.cpp(239,33): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Hugo\Desktop\UniProjects\Tetris\Tetris\Game.cpp(240,34): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Hugo\Desktop\UniProjects\Tetris\Tetris\Game.cpp(287,34): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Hugo\Desktop\UniProjects\Tetris\Tetris\Game.cpp(288,35): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Hugo\Desktop\UniProjects\Tetris\Tetris\Game.cpp(313,34): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Hugo\Desktop\UniProjects\Tetris\Tetris\Game.cpp(314,35): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Hugo\Desktop\UniProjects\Tetris\Tetris\Game.cpp(316,46): warning C4018: '>=': signed/unsigned mismatch
+C:\Users\Hugo\Desktop\UniProjects\Tetris\Tetris\Game.cpp(349,33): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Hugo\Desktop\UniProjects\Tetris\Tetris\Game.cpp(350,34): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Hugo\Desktop\UniProjects\Tetris\Tetris\Game.cpp(352,50): warning C4018: '>=': signed/unsigned mismatch
+C:\Users\Hugo\Desktop\UniProjects\Tetris\Tetris\Game.cpp(376,36): warning C4018: '>': signed/unsigned mismatch
+C:\Users\Hugo\Desktop\UniProjects\Tetris\Tetris\Game.cpp(378,25): warning C4018: '<=': signed/unsigned mismatch
+  Interpreter.cpp
+  L.cpp
+  Square.cpp
+  T.cpp
+  Tetris.cpp
+C:\Users\Hugo\Desktop\UniProjects\Tetris\Tetris\Game.cpp(386,25): warning C4018: '<': signed/unsigned mismatch
+Tester.obj : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '2' doesn't match value '0' in Bar.obj
+Tester.obj : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MD_DynamicRelease' in Bar.obj
+Tester.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/OPT:ICF' specification
+LINK : warning LNK4098: defaultlib 'MSVCRTD' conflicts with use of other libs; use /NODEFAULTLIB:library
+Tester.obj : error LNK2001: unresolved external symbol __imp___invalid_parameter
+Tester.obj : error LNK2001: unresolved external symbol __imp___CrtDbgReport
+C:\Users\Hugo\Desktop\UniProjects\Tetris\Release\Tetris.exe : fatal error LNK1120: 2 unresolved externals

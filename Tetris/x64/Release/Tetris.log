@@ -1,0 +1,18 @@
+﻿  pch.cpp
+  Bar.cpp
+  Block.cpp
+  Console.cpp
+  Dog.cpp
+  File.cpp
+  Game.cpp
+C:\Users\Hugo\Desktop\UniProjects\Tetris\Tetris\Game.cpp(10,33): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Hugo\Desktop\UniProjects\Tetris\Tetris\Game.cpp(11,34): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Hugo\Desktop\UniProjects\Tetris\Tetris\Game.cpp(170,33): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Hugo\Desktop\UniProjects\Tetris\Tetris\Game.cpp(171,34): warning C4018: '<': signed/unsigned mismatch
+  Interpreter.cpp
+  L.cpp
+  Square.cpp
+  T.cpp
+  Tetris.cpp
+C:\Users\Hugo\Desktop\UniProjects\Tetris\Tetris\Game.cpp(376,36): warning C4018: '>': signed/unsigned mismatch
+Tester.obj : fatal error LNK1112: module machine type 'x86' conflicts with target machine type 'x64'
